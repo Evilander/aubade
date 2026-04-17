@@ -1,0 +1,17 @@
+node_modules
+.env
+.aubade
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+dist
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+coverage
+*.mp3
+*.wav
+!landing/sample.mp3
+test/fixtures/generated
